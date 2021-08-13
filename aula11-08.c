@@ -5,8 +5,14 @@
 
 int main(int argc, char *argv[]) {
 	
-	printf("\\Hello World!\\");
-	printf("Hello World2!");
-  
+	int num1;
+	int num2;
+	
+	num1 = 44;
+	num2 = num1 + 20;
+	
+	printf("O primeiro num e %d \n", num1);
+	printf("O segundo num e %d \n", num2);
+	  
 	return 0;
 }
