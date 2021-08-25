@@ -1,3 +1,7 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+
 int sub(int, int);
 int quad(int);
 
